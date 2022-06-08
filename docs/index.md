@@ -2,6 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/arrow0x/arrow0x.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
+מעניין אם אפשר גם עברית
+# או כותרת בעברית
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown

@@ -31,4 +31,5 @@
 
 עוד מנועי חיפוש יתווספו לרשימה בהמשך.
 
-מקור: https://brave.com/learn/no-tracking-search-engine/
+מקור: 
+<a href="https://brave.com/learn/no-tracking-search-engine" target="_blank">https://brave.com/learn/no-tracking-search-engine</a>

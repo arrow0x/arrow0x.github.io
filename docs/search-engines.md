@@ -28,3 +28,7 @@
 
 <a href="search.brave.com" target="_blank">Brave Search</a>
 
+
+עוד מנועי חיפוש יתווספו לרשימה בהמשך.
+
+מקור: https://brave.com/learn/no-tracking-search-engine/
